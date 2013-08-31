@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movie</key>
+	<array>
+		<dict>
+			<key>directors</key>
+			<string>J.A. Bayona</string>
+			<key>genres</key>
+			<string>drama, history, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1649419/</string>
+			<key>number_votes</key>
+			<string>84528</string>
+			<key>rank</key>
+			<string>1</string>
+			<key>rating</key>
+			<string>7.6</string>
+			<key>release_date</key>
+			<string>9/9/12</string>
+			<key>runtime</key>
+			<string>114</string>
+			<key>title</key>
+			<string>The Impossible</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Quentin Tarantino</string>
+			<key>genres</key>
+			<string>adventure, drama, western</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1853728/</string>
+			<key>number_votes</key>
+			<string>427555</string>
+			<key>rank</key>
+			<string>2</string>
+			<key>rating</key>
+			<string>8.5</string>
+			<key>release_date</key>
+			<string>12/25/12</string>
+			<key>runtime</key>
+			<string>165</string>
+			<key>title</key>
+			<string>Django Unchained</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>J.J. Abrams</string>
+			<key>genres</key>
+			<string>action, adventure, sci_fi</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1408101/</string>
+			<key>number_votes</key>
+			<string>157036</string>
+			<key>rank</key>
+			<string>3</string>
+			<key>rating</key>
+			<string>8</string>
+			<key>release_date</key>
+			<string>5/2/13</string>
+			<key>runtime</key>
+			<string>132</string>
+			<key>title</key>
+			<string>Star Trek Into Darkness</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Zack Snyder</string>
+			<key>genres</key>
+			<string>action, adventure, fantasy, sci_fi</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0770828/</string>
+			<key>number_votes</key>
+			<string>220428</string>
+			<key>rank</key>
+			<string>4</string>
+			<key>rating</key>
+			<string>7.6</string>
+			<key>release_date</key>
+			<string>6/10/13</string>
+			<key>runtime</key>
+			<string>143</string>
+			<key>title</key>
+			<string>Man of Steel</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jonathan Levine</string>
+			<key>genres</key>
+			<string>comedy, horror, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1588173/</string>
+			<key>number_votes</key>
+			<string>93450</string>
+			<key>rank</key>
+			<string>5</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>1/16/13</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>Warm Bodies</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Derek Cianfrance</string>
+			<key>genres</key>
+			<string>crime, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1817273/</string>
+			<key>number_votes</key>
+			<string>73069</string>
+			<key>rank</key>
+			<string>6</string>
+			<key>rating</key>
+			<string>7.5</string>
+			<key>release_date</key>
+			<string>9/7/12</string>
+			<key>runtime</key>
+			<string>140</string>
+			<key>title</key>
+			<string>The Place Beyond the Pines</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Kevin Goetz, Michael Goetz</string>
+			<key>genres</key>
+			<string>drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2012011/</string>
+			<key>number_votes</key>
+			<string>1041</string>
+			<key>rank</key>
+			<string>7</string>
+			<key>rating</key>
+			<string>6.2</string>
+			<key>release_date</key>
+			<string>3/9/13</string>
+			<key>runtime</key>
+			<string>123</string>
+			<key>title</key>
+			<string>Scenic Route</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Rawson Marshall Thurber</string>
+			<key>genres</key>
+			<string>comedy, crime</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1723121/</string>
+			<key>number_votes</key>
+			<string>21188</string>
+			<key>rank</key>
+			<string>8</string>
+			<key>rating</key>
+			<string>7.2</string>
+			<key>release_date</key>
+			<string>8/3/13</string>
+			<key>runtime</key>
+			<string>110</string>
+			<key>title</key>
+			<string>We&apos;re the Millers</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Pierre Coffin, Chris Renaud</string>
+			<key>genres</key>
+			<string>animation, adventure, comedy, crime, family, sci_fi</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1690953/</string>
+			<key>number_votes</key>
+			<string>69539</string>
+			<key>rank</key>
+			<string>9</string>
+			<key>rating</key>
+			<string>7.8</string>
+			<key>release_date</key>
+			<string>6/16/13</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>Despicable Me 2</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Baz Luhrmann</string>
+			<key>genres</key>
+			<string>drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1343092/</string>
+			<key>number_votes</key>
+			<string>110716</string>
+			<key>rank</key>
+			<string>10</string>
+			<key>rating</key>
+			<string>7.4</string>
+			<key>release_date</key>
+			<string>5/1/13</string>
+			<key>runtime</key>
+			<string>143</string>
+			<key>title</key>
+			<string>The Great Gatsby</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Kim Jee-Woon</string>
+			<key>genres</key>
+			<string>action, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1549920/</string>
+			<key>number_votes</key>
+			<string>59010</string>
+			<key>rank</key>
+			<string>11</string>
+			<key>rating</key>
+			<string>6.4</string>
+			<key>release_date</key>
+			<string>1/12/13</string>
+			<key>runtime</key>
+			<string>107</string>
+			<key>title</key>
+			<string>The Last Stand</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Scott McGehee, David Siegel</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1932767/</string>
+			<key>number_votes</key>
+			<string>4092</string>
+			<key>rank</key>
+			<string>12</string>
+			<key>rating</key>
+			<string>7.4</string>
+			<key>release_date</key>
+			<string>2012-09</string>
+			<key>runtime</key>
+			<string>99</string>
+			<key>title</key>
+			<string>What Maisie Knew</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Justin Lin</string>
+			<key>genres</key>
+			<string>action, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1905041/</string>
+			<key>number_votes</key>
+			<string>126791</string>
+			<key>rank</key>
+			<string>13</string>
+			<key>rating</key>
+			<string>7.3</string>
+			<key>release_date</key>
+			<string>5/7/13</string>
+			<key>runtime</key>
+			<string>130</string>
+			<key>title</key>
+			<string>Fast &amp; Furious 6</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Rufus Norris</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1441940/</string>
+			<key>number_votes</key>
+			<string>3684</string>
+			<key>rank</key>
+			<string>14</string>
+			<key>rating</key>
+			<string>7.2</string>
+			<key>release_date</key>
+			<string>5/17/12</string>
+			<key>runtime</key>
+			<string>91</string>
+			<key>title</key>
+			<string>Broken</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Seung-wan Ryoo</string>
+			<key>genres</key>
+			<string>action, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2357377/</string>
+			<key>number_votes</key>
+			<string>1167</string>
+			<key>rank</key>
+			<string>15</string>
+			<key>rating</key>
+			<string>6.7</string>
+			<key>release_date</key>
+			<string>1/31/13</string>
+			<key>runtime</key>
+			<string>120</string>
+			<key>title</key>
+			<string>The Berlin File</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Peter Jackson</string>
+			<key>genres</key>
+			<string>adventure, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0903624/</string>
+			<key>number_votes</key>
+			<string>338926</string>
+			<key>rank</key>
+			<string>16</string>
+			<key>rating</key>
+			<string>8.1</string>
+			<key>release_date</key>
+			<string>11/28/12</string>
+			<key>runtime</key>
+			<string>169</string>
+			<key>title</key>
+			<string>The Hobbit: An Unexpected Journey</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Thomas Vinterberg</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2106476/</string>
+			<key>number_votes</key>
+			<string>32833</string>
+			<key>rank</key>
+			<string>17</string>
+			<key>rating</key>
+			<string>8.2</string>
+			<key>release_date</key>
+			<string>5/20/12</string>
+			<key>runtime</key>
+			<string>115</string>
+			<key>title</key>
+			<string>The Hunt</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>James Wan</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1457767/</string>
+			<key>number_votes</key>
+			<string>58299</string>
+			<key>rank</key>
+			<string>18</string>
+			<key>rating</key>
+			<string>7.8</string>
+			<key>release_date</key>
+			<string>6/8/13</string>
+			<key>runtime</key>
+			<string>112</string>
+			<key>title</key>
+			<string>The Conjuring</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Danny Boyle</string>
+			<key>genres</key>
+			<string>crime, drama, mystery, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1924429/</string>
+			<key>number_votes</key>
+			<string>37960</string>
+			<key>rank</key>
+			<string>19</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>3/27/13</string>
+			<key>runtime</key>
+			<string>101</string>
+			<key>title</key>
+			<string>Trance</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Brian Helgeland</string>
+			<key>genres</key>
+			<string>biography, drama, sport</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0453562/</string>
+			<key>number_votes</key>
+			<string>26562</string>
+			<key>rank</key>
+			<string>20</string>
+			<key>rating</key>
+			<string>7.5</string>
+			<key>release_date</key>
+			<string>4/12/13</string>
+			<key>runtime</key>
+			<string>128</string>
+			<key>title</key>
+			<string>42</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Chang-min Choo</string>
+			<key>genres</key>
+			<string>drama, history</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2290840/</string>
+			<key>number_votes</key>
+			<string>1158</string>
+			<key>rank</key>
+			<string>21</string>
+			<key>rating</key>
+			<string>7.6</string>
+			<key>release_date</key>
+			<string>9/13/12</string>
+			<key>runtime</key>
+			<string>131</string>
+			<key>title</key>
+			<string>Masquerade</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Alonso Mayo</string>
+			<key>genres</key>
+			<string>comedy, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1038693/</string>
+			<key>number_votes</key>
+			<string>946</string>
+			<key>rank</key>
+			<string>22</string>
+			<key>rating</key>
+			<string>6.8</string>
+			<key>release_date</key>
+			<string>10/12/12</string>
+			<key>runtime</key>
+			<string>96</string>
+			<key>title</key>
+			<string>The Story of Luke</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Ruben Fleischer</string>
+			<key>genres</key>
+			<string>action, crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1321870/</string>
+			<key>number_votes</key>
+			<string>99493</string>
+			<key>rank</key>
+			<string>23</string>
+			<key>rating</key>
+			<string>6.8</string>
+			<key>release_date</key>
+			<string>1/7/13</string>
+			<key>runtime</key>
+			<string>113</string>
+			<key>title</key>
+			<string>Gangster Squad</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Yaron Zilberman</string>
+			<key>genres</key>
+			<string>drama, music</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1226240/</string>
+			<key>number_votes</key>
+			<string>4157</string>
+			<key>rank</key>
+			<string>24</string>
+			<key>rating</key>
+			<string>6.9</string>
+			<key>release_date</key>
+			<string>9/10/12</string>
+			<key>runtime</key>
+			<string>105</string>
+			<key>title</key>
+			<string>A Late Quartet</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>David O. Russell</string>
+			<key>genres</key>
+			<string>comedy, drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1045658/</string>
+			<key>number_votes</key>
+			<string>256849</string>
+			<key>rank</key>
+			<string>25</string>
+			<key>rating</key>
+			<string>7.9</string>
+			<key>release_date</key>
+			<string>9/8/12</string>
+			<key>runtime</key>
+			<string>122</string>
+			<key>title</key>
+			<string>Silver Linings Playbook</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>RyÃ»hei Kitamura</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1763264/</string>
+			<key>number_votes</key>
+			<string>4788</string>
+			<key>rank</key>
+			<string>26</string>
+			<key>rating</key>
+			<string>5.8</string>
+			<key>release_date</key>
+			<string>9/8/12</string>
+			<key>runtime</key>
+			<string>86</string>
+			<key>title</key>
+			<string>No One Lives</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jacques Audiard</string>
+			<key>genres</key>
+			<string>drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2053425/</string>
+			<key>number_votes</key>
+			<string>24732</string>
+			<key>rank</key>
+			<string>27</string>
+			<key>rating</key>
+			<string>7.5</string>
+			<key>release_date</key>
+			<string>5/17/12</string>
+			<key>runtime</key>
+			<string>120</string>
+			<key>title</key>
+			<string>Rust and Bone</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jeff Nichols</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1935179/</string>
+			<key>number_votes</key>
+			<string>29330</string>
+			<key>rank</key>
+			<string>28</string>
+			<key>rating</key>
+			<string>7.6</string>
+			<key>release_date</key>
+			<string>5/26/12</string>
+			<key>runtime</key>
+			<string>130</string>
+			<key>title</key>
+			<string>Mud</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jeremy Gardner</string>
+			<key>genres</key>
+			<string>drama, horror</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2272350/</string>
+			<key>number_votes</key>
+			<string>887</string>
+			<key>rank</key>
+			<string>29</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>10/13/12</string>
+			<key>runtime</key>
+			<string>101</string>
+			<key>title</key>
+			<string>The Battery</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Louis Leterrier</string>
+			<key>genres</key>
+			<string>crime, mystery, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1670345/</string>
+			<key>number_votes</key>
+			<string>103967</string>
+			<key>rank</key>
+			<string>30</string>
+			<key>rating</key>
+			<string>7.3</string>
+			<key>release_date</key>
+			<string>5/21/13</string>
+			<key>runtime</key>
+			<string>115</string>
+			<key>title</key>
+			<string>Now You See Me</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Steven Knight</string>
+			<key>genres</key>
+			<string>action, crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1893256/</string>
+			<key>number_votes</key>
+			<string>15001</string>
+			<key>rank</key>
+			<string>31</string>
+			<key>rating</key>
+			<string>6.2</string>
+			<key>release_date</key>
+			<string>5/9/13</string>
+			<key>runtime</key>
+			<string>100</string>
+			<key>title</key>
+			<string>Redemption</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Fede Alvarez</string>
+			<key>genres</key>
+			<string>horror</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1288558/</string>
+			<key>number_votes</key>
+			<string>63011</string>
+			<key>rank</key>
+			<string>32</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>3/8/13</string>
+			<key>runtime</key>
+			<string>91</string>
+			<key>title</key>
+			<string>Evil Dead</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Christopher McQuarrie</string>
+			<key>genres</key>
+			<string>action, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0790724/</string>
+			<key>number_votes</key>
+			<string>116841</string>
+			<key>rank</key>
+			<string>33</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>12/20/12</string>
+			<key>runtime</key>
+			<string>130</string>
+			<key>title</key>
+			<string>Jack Reacher</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Paul Feig</string>
+			<key>genres</key>
+			<string>action, comedy, crime</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2404463/</string>
+			<key>number_votes</key>
+			<string>27570</string>
+			<key>rank</key>
+			<string>34</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>6/27/13</string>
+			<key>runtime</key>
+			<string>117</string>
+			<key>title</key>
+			<string>The Heat</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Park Hoon Jeong</string>
+			<key>genres</key>
+			<string>thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2625030/</string>
+			<key>number_votes</key>
+			<string>1990</string>
+			<key>rank</key>
+			<string>35</string>
+			<key>rating</key>
+			<string>7.5</string>
+			<key>release_date</key>
+			<string>2/21/13</string>
+			<key>runtime</key>
+			<string>134</string>
+			<key>title</key>
+			<string>New World</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Uwe Boll</string>
+			<key>genres</key>
+			<string>action, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2368553/</string>
+			<key>number_votes</key>
+			<string>6464</string>
+			<key>rank</key>
+			<string>36</string>
+			<key>rating</key>
+			<string>6</string>
+			<key>release_date</key>
+			<string>5/10/13</string>
+			<key>runtime</key>
+			<string>99</string>
+			<key>title</key>
+			<string>Assault on Wall Street</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Michael Bay</string>
+			<key>genres</key>
+			<string>comedy, crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1980209/</string>
+			<key>number_votes</key>
+			<string>43603</string>
+			<key>rank</key>
+			<string>37</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>4/11/13</string>
+			<key>runtime</key>
+			<string>129</string>
+			<key>title</key>
+			<string>Pain &amp; Gain</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Brad Anderson</string>
+			<key>genres</key>
+			<string>crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1911644/</string>
+			<key>number_votes</key>
+			<string>36810</string>
+			<key>rank</key>
+			<string>38</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>3/14/13</string>
+			<key>runtime</key>
+			<string>94</string>
+			<key>title</key>
+			<string>The Call</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Todd Robinson</string>
+			<key>genres</key>
+			<string>thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1922685/</string>
+			<key>number_votes</key>
+			<string>5659</string>
+			<key>rank</key>
+			<string>39</string>
+			<key>rating</key>
+			<string>5.7</string>
+			<key>release_date</key>
+			<string>3/1/13</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>Phantom</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Chan-wook Park</string>
+			<key>genres</key>
+			<string>drama, mystery, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1682180/</string>
+			<key>number_votes</key>
+			<string>37451</string>
+			<key>rank</key>
+			<string>40</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>1/20/13</string>
+			<key>runtime</key>
+			<string>99</string>
+			<key>title</key>
+			<string>Stoker</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Ronny Yu</string>
+			<key>genres</key>
+			<string>action, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2072220/</string>
+			<key>number_votes</key>
+			<string>607</string>
+			<key>rank</key>
+			<string>41</string>
+			<key>rating</key>
+			<string>5.7</string>
+			<key>release_date</key>
+			<string>4/3/13</string>
+			<key>runtime</key>
+			<string>102</string>
+			<key>title</key>
+			<string>Saving General Yang</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Giuseppe Tornatore</string>
+			<key>genres</key>
+			<string>crime, drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1924396/</string>
+			<key>number_votes</key>
+			<string>7259</string>
+			<key>rank</key>
+			<string>42</string>
+			<key>rating</key>
+			<string>7.7</string>
+			<key>release_date</key>
+			<string>1/1/13</string>
+			<key>runtime</key>
+			<string>131</string>
+			<key>title</key>
+			<string>The Best Offer</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Fisher Stevens</string>
+			<key>genres</key>
+			<string>comedy, crime</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1389096/</string>
+			<key>number_votes</key>
+			<string>23212</string>
+			<key>rank</key>
+			<string>43</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>2012-09</string>
+			<key>runtime</key>
+			<string>95</string>
+			<key>title</key>
+			<string>Stand Up Guys</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Dan Mazer</string>
+			<key>genres</key>
+			<string>comedy, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2244901/</string>
+			<key>number_votes</key>
+			<string>13442</string>
+			<key>rank</key>
+			<string>44</string>
+			<key>rating</key>
+			<string>5.8</string>
+			<key>release_date</key>
+			<string>1/17/13</string>
+			<key>runtime</key>
+			<string>97</string>
+			<key>title</key>
+			<string>I Give It a Year</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Taylor Hackford</string>
+			<key>genres</key>
+			<string>action, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1904996/</string>
+			<key>number_votes</key>
+			<string>43249</string>
+			<key>rank</key>
+			<string>45</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>1/18/13</string>
+			<key>runtime</key>
+			<string>118</string>
+			<key>title</key>
+			<string>Parker</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Keishi Ohtomo</string>
+			<key>genres</key>
+			<string>action, drama, history</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1979319/</string>
+			<key>number_votes</key>
+			<string>6523</string>
+			<key>rank</key>
+			<string>46</string>
+			<key>rating</key>
+			<string>7.4</string>
+			<key>release_date</key>
+			<string>8/25/12</string>
+			<key>runtime</key>
+			<string>134</string>
+			<key>title</key>
+			<string>Rurouni Kenshin</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Michael Apted, Curtis Hanson</string>
+			<key>genres</key>
+			<string>drama, sport</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1629757/</string>
+			<key>number_votes</key>
+			<string>11869</string>
+			<key>rank</key>
+			<string>47</string>
+			<key>rating</key>
+			<string>6.8</string>
+			<key>release_date</key>
+			<string>10/25/12</string>
+			<key>runtime</key>
+			<string>116</string>
+			<key>title</key>
+			<string>Chasing Mavericks</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Kern Saxton</string>
+			<key>genres</key>
+			<string>crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1606339/</string>
+			<key>number_votes</key>
+			<string>2196</string>
+			<key>rank</key>
+			<string>48</string>
+			<key>rating</key>
+			<string>5.7</string>
+			<key>release_date</key>
+			<string>7/21/12</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>Sushi Girl</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Lee Kirk</string>
+			<key>genres</key>
+			<string>comedy, drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1769363/</string>
+			<key>number_votes</key>
+			<string>4066</string>
+			<key>rank</key>
+			<string>49</string>
+			<key>rating</key>
+			<string>6.4</string>
+			<key>release_date</key>
+			<string>4/27/12</string>
+			<key>runtime</key>
+			<string>94</string>
+			<key>title</key>
+			<string>The Giant Mechanical Man</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Ben Lewin</string>
+			<key>genres</key>
+			<string>comedy, drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1866249/</string>
+			<key>number_votes</key>
+			<string>22477</string>
+			<key>rank</key>
+			<string>50</string>
+			<key>rating</key>
+			<string>7.2</string>
+			<key>release_date</key>
+			<string>1/23/12</string>
+			<key>runtime</key>
+			<string>95</string>
+			<key>title</key>
+			<string>The Sessions</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Travis Fine</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2066176/</string>
+			<key>number_votes</key>
+			<string>1626</string>
+			<key>rank</key>
+			<string>51</string>
+			<key>rating</key>
+			<string>6.7</string>
+			<key>release_date</key>
+			<string>4/20/12</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>Any Day Now</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Stephen Chbosky</string>
+			<key>genres</key>
+			<string>drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1659337/</string>
+			<key>number_votes</key>
+			<string>163010</string>
+			<key>rank</key>
+			<string>52</string>
+			<key>rating</key>
+			<string>8.1</string>
+			<key>release_date</key>
+			<string>9/8/12</string>
+			<key>runtime</key>
+			<string>102</string>
+			<key>title</key>
+			<string>The Perks of Being a Wallflower</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Tommy Wirkola</string>
+			<key>genres</key>
+			<string>action, fantasy, horror</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1428538/</string>
+			<key>number_votes</key>
+			<string>81459</string>
+			<key>rank</key>
+			<string>53</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>1/17/13</string>
+			<key>runtime</key>
+			<string>88</string>
+			<key>title</key>
+			<string>Hansel &amp; Gretel: Witch Hunters</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Nicolas Winding Refn</string>
+			<key>genres</key>
+			<string>crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1602613/</string>
+			<key>number_votes</key>
+			<string>26934</string>
+			<key>rank</key>
+			<string>54</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>5/22/13</string>
+			<key>runtime</key>
+			<string>90</string>
+			<key>title</key>
+			<string>Only God Forgives</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Tom Hooper</string>
+			<key>genres</key>
+			<string>drama, musical, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1707386/</string>
+			<key>number_votes</key>
+			<string>147386</string>
+			<key>rank</key>
+			<string>55</string>
+			<key>rating</key>
+			<string>7.7</string>
+			<key>release_date</key>
+			<string>12/5/12</string>
+			<key>runtime</key>
+			<string>158</string>
+			<key>title</key>
+			<string>Les Miserables</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>James Ponsoldt</string>
+			<key>genres</key>
+			<string>comedy, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2063781/</string>
+			<key>number_votes</key>
+			<string>5936</string>
+			<key>rank</key>
+			<string>56</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>1/22/12</string>
+			<key>runtime</key>
+			<string>81</string>
+			<key>title</key>
+			<string>Smashed</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jon Lucas, Scott Moore</string>
+			<key>genres</key>
+			<string>comedy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1711425/</string>
+			<key>number_votes</key>
+			<string>26767</string>
+			<key>rank</key>
+			<string>57</string>
+			<key>rating</key>
+			<string>5.6</string>
+			<key>release_date</key>
+			<string>2/28/13</string>
+			<key>runtime</key>
+			<string>93</string>
+			<key>title</key>
+			<string>21 &amp; Over</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Sam Raimi</string>
+			<key>genres</key>
+			<string>adventure, family, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1623205/</string>
+			<key>number_votes</key>
+			<string>105220</string>
+			<key>rank</key>
+			<string>58</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>2/14/13</string>
+			<key>runtime</key>
+			<string>130</string>
+			<key>title</key>
+			<string>Oz the Great and Powerful</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Xiaogang Feng</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2113822/</string>
+			<key>number_votes</key>
+			<string>1174</string>
+			<key>rank</key>
+			<string>59</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>11/11/12</string>
+			<key>runtime</key>
+			<string>145</string>
+			<key>title</key>
+			<string>Back to 1942</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Takeshi Kitano</string>
+			<key>genres</key>
+			<string>action, crime</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1724962/</string>
+			<key>number_votes</key>
+			<string>951</string>
+			<key>rank</key>
+			<string>60</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>9/3/12</string>
+			<key>runtime</key>
+			<string>112</string>
+			<key>title</key>
+			<string>Outrage Beyond</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Rob Grant</string>
+			<key>genres</key>
+			<string>comedy, crime</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1838601/</string>
+			<key>number_votes</key>
+			<string>90</string>
+			<key>rank</key>
+			<string>61</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>7/28/12</string>
+			<key>title</key>
+			<string>Mon Ami</string>
+			<key>runtime</key>
+			<string>95</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Antoine Fuqua</string>
+			<key>genres</key>
+			<string>action, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2302755/</string>
+			<key>number_votes</key>
+			<string>84390</string>
+			<key>rank</key>
+			<string>62</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>3/20/13</string>
+			<key>runtime</key>
+			<string>120</string>
+			<key>title</key>
+			<string>Olympus Has Fallen</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Peter Webber</string>
+			<key>genres</key>
+			<string>drama, history, war</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2103264/</string>
+			<key>number_votes</key>
+			<string>2907</string>
+			<key>rank</key>
+			<string>63</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>9/14/12</string>
+			<key>runtime</key>
+			<string>105</string>
+			<key>title</key>
+			<string>Emperor</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Ric Roman Waugh</string>
+			<key>genres</key>
+			<string>drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0882977/</string>
+			<key>number_votes</key>
+			<string>33086</string>
+			<key>rank</key>
+			<string>64</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>2/21/13</string>
+			<key>runtime</key>
+			<string>112</string>
+			<key>title</key>
+			<string>Snitch</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Paul Hyett</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1555093/</string>
+			<key>number_votes</key>
+			<string>1007</string>
+			<key>rank</key>
+			<string>65</string>
+			<key>rating</key>
+			<string>6</string>
+			<key>release_date</key>
+			<string>8/23/12</string>
+			<key>runtime</key>
+			<string>90</string>
+			<key>title</key>
+			<string>The Seasoning House</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Sean Baker</string>
+			<key>genres</key>
+			<string>drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2035630/</string>
+			<key>number_votes</key>
+			<string>1779</string>
+			<key>rank</key>
+			<string>66</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>3/11/12</string>
+			<key>runtime</key>
+			<string>103</string>
+			<key>title</key>
+			<string>Starlet</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Franck Khalfoun</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2103217/</string>
+			<key>number_votes</key>
+			<string>10504</string>
+			<key>rank</key>
+			<string>67</string>
+			<key>rating</key>
+			<string>6.2</string>
+			<key>release_date</key>
+			<string>5/26/12</string>
+			<key>runtime</key>
+			<string>89</string>
+			<key>title</key>
+			<string>Maniac</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Gabriele Salvatores</string>
+			<key>genres</key>
+			<string>biography, crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1697064/</string>
+			<key>number_votes</key>
+			<string>1534</string>
+			<key>rank</key>
+			<string>68</string>
+			<key>rating</key>
+			<string>6.2</string>
+			<key>release_date</key>
+			<string>2/28/13</string>
+			<key>runtime</key>
+			<string>110</string>
+			<key>title</key>
+			<string>Educazione siberiana</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Petter NÃ_ss</string>
+			<key>genres</key>
+			<string>action, drama, war</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1876277/</string>
+			<key>number_votes</key>
+			<string>7299</string>
+			<key>rank</key>
+			<string>69</string>
+			<key>rating</key>
+			<string>6.9</string>
+			<key>release_date</key>
+			<string>3/4/12</string>
+			<key>runtime</key>
+			<string>100</string>
+			<key>title</key>
+			<string>Into the White</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Lee Toland Krieger</string>
+			<key>genres</key>
+			<string>comedy, drama, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1405365/</string>
+			<key>number_votes</key>
+			<string>11440</string>
+			<key>rank</key>
+			<string>70</string>
+			<key>rating</key>
+			<string>6.5</string>
+			<key>release_date</key>
+			<string>1/20/12</string>
+			<key>runtime</key>
+			<string>92</string>
+			<key>title</key>
+			<string>Celeste &amp; Jesse Forever</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Todd Phillips</string>
+			<key>genres</key>
+			<string>comedy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1951261/</string>
+			<key>number_votes</key>
+			<string>64096</string>
+			<key>rank</key>
+			<string>71</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>5/20/13</string>
+			<key>runtime</key>
+			<string>100</string>
+			<key>title</key>
+			<string>The Hangover Part III</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Shane Black</string>
+			<key>genres</key>
+			<string>action, adventure, sci_fi</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1300854/</string>
+			<key>number_votes</key>
+			<string>238544</string>
+			<key>rank</key>
+			<string>72</string>
+			<key>rating</key>
+			<string>7.5</string>
+			<key>release_date</key>
+			<string>4/18/13</string>
+			<key>runtime</key>
+			<string>130</string>
+			<key>title</key>
+			<string>Iron Man 3</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Kirk De Micco, Chris Sanders</string>
+			<key>genres</key>
+			<string>animation, adventure, comedy, family, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0481499/</string>
+			<key>number_votes</key>
+			<string>38210</string>
+			<key>rank</key>
+			<string>73</string>
+			<key>rating</key>
+			<string>7.3</string>
+			<key>release_date</key>
+			<string>2/15/13</string>
+			<key>runtime</key>
+			<string>98</string>
+			<key>title</key>
+			<string>The Croods</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Roland Emmerich</string>
+			<key>genres</key>
+			<string>action, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2334879/</string>
+			<key>number_votes</key>
+			<string>19144</string>
+			<key>rank</key>
+			<string>74</string>
+			<key>rating</key>
+			<string>6.4</string>
+			<key>release_date</key>
+			<string>6/26/13</string>
+			<key>runtime</key>
+			<string>131</string>
+			<key>title</key>
+			<string>White House Down</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Joseph Kosinski</string>
+			<key>genres</key>
+			<string>action, adventure, mystery, sci_fi</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1483013/</string>
+			<key>number_votes</key>
+			<string>154452</string>
+			<key>rank</key>
+			<string>75</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>4/10/13</string>
+			<key>runtime</key>
+			<string>124</string>
+			<key>title</key>
+			<string>Oblivion</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jeremy Power Regimbal</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1790869/</string>
+			<key>number_votes</key>
+			<string>1719</string>
+			<key>rank</key>
+			<string>76</string>
+			<key>rating</key>
+			<string>5.2</string>
+			<key>release_date</key>
+			<string>4/21/12</string>
+			<key>runtime</key>
+			<string>97</string>
+			<key>title</key>
+			<string>In Their Skin</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Steven Soderbergh</string>
+			<key>genres</key>
+			<string>crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2053463/</string>
+			<key>number_votes</key>
+			<string>66643</string>
+			<key>rank</key>
+			<string>77</string>
+			<key>rating</key>
+			<string>7.2</string>
+			<key>release_date</key>
+			<string>2/8/13</string>
+			<key>runtime</key>
+			<string>106</string>
+			<key>title</key>
+			<string>Side Effects</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jen, Sylvia Soska</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1959332/</string>
+			<key>number_votes</key>
+			<string>5424</string>
+			<key>rank</key>
+			<string>78</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>8/27/12</string>
+			<key>runtime</key>
+			<string>103</string>
+			<key>title</key>
+			<string>American Mary</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Simon Barrett, Jason Eisener</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2450186/</string>
+			<key>number_votes</key>
+			<string>6194</string>
+			<key>rank</key>
+			<string>79</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>1/19/13</string>
+			<key>runtime</key>
+			<string>96</string>
+			<key>title</key>
+			<string>V/H/S/2</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Andy Muschietti</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2023587/</string>
+			<key>number_votes</key>
+			<string>59997</string>
+			<key>rank</key>
+			<string>80</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>1/17/13</string>
+			<key>runtime</key>
+			<string>100</string>
+			<key>title</key>
+			<string>Mama</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Neil Jordan</string>
+			<key>genres</key>
+			<string>drama, fantasy, horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1531901/</string>
+			<key>number_votes</key>
+			<string>5743</string>
+			<key>rank</key>
+			<string>81</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>9/9/12</string>
+			<key>runtime</key>
+			<string>118</string>
+			<key>title</key>
+			<string>Byzantium</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>David Gordon Green</string>
+			<key>genres</key>
+			<string>comedy, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2195548/</string>
+			<key>number_votes</key>
+			<string>1852</string>
+			<key>rank</key>
+			<string>82</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>1/20/13</string>
+			<key>runtime</key>
+			<string>94</string>
+			<key>title</key>
+			<string>Prince Avalanche</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Ariel Vromen</string>
+			<key>genres</key>
+			<string>biography, crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1491044/</string>
+			<key>number_votes</key>
+			<string>11555</string>
+			<key>rank</key>
+			<string>83</string>
+			<key>rating</key>
+			<string>7</string>
+			<key>release_date</key>
+			<string>8/30/12</string>
+			<key>runtime</key>
+			<string>105</string>
+			<key>title</key>
+			<string>The Iceman</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Scott Walker</string>
+			<key>genres</key>
+			<string>biography, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2005374/</string>
+			<key>number_votes</key>
+			<string>2775</string>
+			<key>rank</key>
+			<string>84</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>7/11/13</string>
+			<key>runtime</key>
+			<string>105</string>
+			<key>title</key>
+			<string>The Frozen Ground</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Harmony Korine</string>
+			<key>genres</key>
+			<string>crime, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2101441/</string>
+			<key>number_votes</key>
+			<string>51433</string>
+			<key>rank</key>
+			<string>85</string>
+			<key>rating</key>
+			<string>5.5</string>
+			<key>release_date</key>
+			<string>9/5/12</string>
+			<key>runtime</key>
+			<string>94</string>
+			<key>title</key>
+			<string>Spring Breakers</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Rob Epstein, Jeffrey Friedman</string>
+			<key>genres</key>
+			<string>biography, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1426329/</string>
+			<key>number_votes</key>
+			<string>4606</string>
+			<key>rank</key>
+			<string>86</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>1/22/13</string>
+			<key>runtime</key>
+			<string>93</string>
+			<key>title</key>
+			<string>Lovelace</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Dan Scanlon</string>
+			<key>genres</key>
+			<string>animation, adventure, comedy, family, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1453405/</string>
+			<key>number_votes</key>
+			<string>52728</string>
+			<key>rank</key>
+			<string>87</string>
+			<key>rating</key>
+			<string>7.6</string>
+			<key>release_date</key>
+			<string>6/8/13</string>
+			<key>runtime</key>
+			<string>104</string>
+			<key>title</key>
+			<string>Monsters University</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Bryan Singer</string>
+			<key>genres</key>
+			<string>adventure, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1351685/</string>
+			<key>number_votes</key>
+			<string>54404</string>
+			<key>rank</key>
+			<string>88</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>2/27/13</string>
+			<key>runtime</key>
+			<string>114</string>
+			<key>title</key>
+			<string>Jack the Giant Slayer</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Jon M. Chu</string>
+			<key>genres</key>
+			<string>action, adventure, sci_fi, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1583421/</string>
+			<key>number_votes</key>
+			<string>76700</string>
+			<key>rank</key>
+			<string>89</string>
+			<key>rating</key>
+			<string>5.8</string>
+			<key>release_date</key>
+			<string>3/11/13</string>
+			<key>runtime</key>
+			<string>110</string>
+			<key>title</key>
+			<string>G.I. Joe: Retaliation</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>David Boyd</string>
+			<key>genres</key>
+			<string>drama, sport</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2051894/</string>
+			<key>number_votes</key>
+			<string>399</string>
+			<key>rank</key>
+			<string>90</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>4/19/13</string>
+			<key>runtime</key>
+			<string>146</string>
+			<key>title</key>
+			<string>Home Run</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>David M. Rosenthal</string>
+			<key>genres</key>
+			<string>crime, drama, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1540741/</string>
+			<key>number_votes</key>
+			<string>598</string>
+			<key>rank</key>
+			<string>91</string>
+			<key>rating</key>
+			<string>6.3</string>
+			<key>release_date</key>
+			<string>2/9/13</string>
+			<key>runtime</key>
+			<string>116</string>
+			<key>title</key>
+			<string>A Single Shot</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Dito Montiel</string>
+			<key>genres</key>
+			<string>action, drama</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2171867/</string>
+			<key>number_votes</key>
+			<string>1459</string>
+			<key>rank</key>
+			<string>92</string>
+			<key>rating</key>
+			<string>4.9</string>
+			<key>release_date</key>
+			<string>3/19/13</string>
+			<key>runtime</key>
+			<string>94</string>
+			<key>title</key>
+			<string>Empire State</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Eran Creevy</string>
+			<key>genres</key>
+			<string>action, adventure, crime, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1684233/</string>
+			<key>number_votes</key>
+			<string>11564</string>
+			<key>rank</key>
+			<string>93</string>
+			<key>rating</key>
+			<string>6.1</string>
+			<key>release_date</key>
+			<string>2/24/13</string>
+			<key>runtime</key>
+			<string>99</string>
+			<key>title</key>
+			<string>Welcome to the Punch</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Richard LaGravenese</string>
+			<key>genres</key>
+			<string>drama, fantasy, romance</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1559547/</string>
+			<key>number_votes</key>
+			<string>30772</string>
+			<key>rank</key>
+			<string>94</string>
+			<key>rating</key>
+			<string>6</string>
+			<key>release_date</key>
+			<string>2/13/13</string>
+			<key>runtime</key>
+			<string>124</string>
+			<key>title</key>
+			<string>Beautiful Creatures</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Gor Kirakosian</string>
+			<key>genres</key>
+			<string>comedy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1876373/</string>
+			<key>number_votes</key>
+			<string>393</string>
+			<key>rank</key>
+			<string>95</string>
+			<key>rating</key>
+			<string>5.7</string>
+			<key>release_date</key>
+			<string>11/22/12</string>
+			<key>title</key>
+			<string>Lost and Found in Armenia</string>
+			<key>runtime</key>
+			<string>146</string>
+			<key>year</key>
+			<string>2012</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Robert Schwentke</string>
+			<key>genres</key>
+			<string>action, comedy, crime, fantasy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0790736/</string>
+			<key>number_votes</key>
+			<string>9998</string>
+			<key>rank</key>
+			<string>96</string>
+			<key>rating</key>
+			<string>5.4</string>
+			<key>release_date</key>
+			<string>7/17/13</string>
+			<key>runtime</key>
+			<string>96</string>
+			<key>title</key>
+			<string>R.I.P.D.</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>John Luessenhop</string>
+			<key>genres</key>
+			<string>horror, thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt1572315/</string>
+			<key>number_votes</key>
+			<string>18771</string>
+			<key>rank</key>
+			<string>97</string>
+			<key>rating</key>
+			<string>4.8</string>
+			<key>release_date</key>
+			<string>1/3/13</string>
+			<key>runtime</key>
+			<string>92</string>
+			<key>title</key>
+			<string>Texas Chainsaw 3D</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Don Scardino</string>
+			<key>genres</key>
+			<string>comedy</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt0790628/</string>
+			<key>number_votes</key>
+			<string>30708</string>
+			<key>rank</key>
+			<string>98</string>
+			<key>rating</key>
+			<string>5.9</string>
+			<key>release_date</key>
+			<string>3/8/13</string>
+			<key>runtime</key>
+			<string>100</string>
+			<key>title</key>
+			<string>The Incredible Burt Wonderstone</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Keanu Reeves</string>
+			<key>genres</key>
+			<string>action</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2016940/</string>
+			<key>number_votes</key>
+			<string>2870</string>
+			<key>rank</key>
+			<string>99</string>
+			<key>rating</key>
+			<string>6.2</string>
+			<key>release_date</key>
+			<string>7/5/13</string>
+			<key>runtime</key>
+			<string>105</string>
+			<key>title</key>
+			<string>Man of Tai Chi</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+		<dict>
+			<key>directors</key>
+			<string>Anton Megerdichev</string>
+			<key>genres</key>
+			<string>thriller</string>
+			<key>link</key>
+			<string>http://www.imdb.com/title/tt2649128/</string>
+			<key>number_votes</key>
+			<string>2170</string>
+			<key>rank</key>
+			<string>100</string>
+			<key>rating</key>
+			<string>6.6</string>
+			<key>release_date</key>
+			<string>2/21/13</string>
+			<key>runtime</key>
+			<string>146</string>
+			<key>title</key>
+			<string>Metro</string>
+			<key>year</key>
+			<string>2013</string>
+		</dict>
+	</array>
+</dict>
+</plist>
