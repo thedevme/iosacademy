@@ -1,0 +1,11 @@
+- (void)viewDidLoad {
+    
+    [super viewDidLoad];
+    
+    self.navigationItem.title = @"Custom Controller";
+}
+
+- (IBAction)done:(id)sender {
+    
+    [self dismissModalViewControllerAnimated:YES];
+}
