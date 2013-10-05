@@ -1,0 +1,515 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		2B30C1B917FFADBB00498EC7 /* Mogenerator */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 2B30C1BC17FFADBB00498EC7 /* Build configuration list for PBXAggregateTarget "Mogenerator" */;
+			buildPhases = (
+				2B30C1BD17FFADC900498EC7 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = Mogenerator;
+			productName = Mogenerator;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		2B30C18E17FFAA8500498EC7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B30C18D17FFAA8500498EC7 /* UIKit.framework */; };
+		2B30C19017FFAA8500498EC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B30C18F17FFAA8500498EC7 /* Foundation.framework */; };
+		2B30C19217FFAA8500498EC7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B30C19117FFAA8500498EC7 /* CoreGraphics.framework */; };
+		2B30C19817FFAA8500498EC7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2B30C19617FFAA8500498EC7 /* InfoPlist.strings */; };
+		2B30C19A17FFAA8500498EC7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B30C19917FFAA8500498EC7 /* main.m */; };
+		2B30C19E17FFAA8500498EC7 /* IAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B30C19D17FFAA8500498EC7 /* IAAppDelegate.m */; };
+		2B30C1A017FFAA8500498EC7 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B30C19F17FFAA8500498EC7 /* Default.png */; };
+		2B30C1A217FFAA8500498EC7 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B30C1A117FFAA8500498EC7 /* Default@2x.png */; };
+		2B30C1A417FFAA8500498EC7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B30C1A317FFAA8500498EC7 /* Default-568h@2x.png */; };
+		2B30C1A717FFAA8500498EC7 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B30C1A517FFAA8500498EC7 /* MainStoryboard.storyboard */; };
+		2B30C1AA17FFAA8500498EC7 /* IAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B30C1A917FFAA8500498EC7 /* IAViewController.m */; };
+		2B30C1B117FFAA9100498EC7 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B30C1B017FFAA9100498EC7 /* CoreData.framework */; };
+		2B71B1A117FFD058004B85BD /* IARecipeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B71B1A017FFD058004B85BD /* IARecipeCell.m */; };
+		2B71B1A717FFD0E7004B85BD /* IARecipeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B71B1A617FFD0E7004B85BD /* IARecipeTableViewController.m */; };
+		2B71B1AA17FFD561004B85BD /* RecipeModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2B71B1A817FFD561004B85BD /* RecipeModel.xcdatamodeld */; };
+		2B71B1AE17FFD645004B85BD /* IAAddRecipeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B71B1AD17FFD645004B85BD /* IAAddRecipeViewController.m */; };
+		2B9FB22617FFDC0200D3CF75 /* IATestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B9FB22517FFDC0200D3CF75 /* IATestViewController.m */; };
+		2BEA681517FFAF9200A8124C /* IARecipeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA681217FFAF9200A8124C /* IARecipeModel.m */; };
+		2BEA681F17FFAFB800A8124C /* _Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA681817FFAFB800A8124C /* _Ingredient.m */; };
+		2BEA682017FFAFB800A8124C /* _Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA681A17FFAFB800A8124C /* _Recipe.m */; };
+		2BEA682117FFAFB800A8124C /* Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA681C17FFAFB800A8124C /* Ingredient.m */; };
+		2BEA682217FFAFB800A8124C /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA681E17FFAFB800A8124C /* Recipe.m */; };
+		A874A1FE3AC843B490381259 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8AC37C914C9A4D29B2950100 /* libPods.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2B30C18A17FFAA8500498EC7 /* RecipeExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecipeExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B30C18D17FFAA8500498EC7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2B30C18F17FFAA8500498EC7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2B30C19117FFAA8500498EC7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2B30C19517FFAA8500498EC7 /* RecipeExample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RecipeExample-Info.plist"; sourceTree = "<group>"; };
+		2B30C19717FFAA8500498EC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2B30C19917FFAA8500498EC7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2B30C19B17FFAA8500498EC7 /* RecipeExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RecipeExample-Prefix.pch"; sourceTree = "<group>"; };
+		2B30C19C17FFAA8500498EC7 /* IAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IAAppDelegate.h; sourceTree = "<group>"; };
+		2B30C19D17FFAA8500498EC7 /* IAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IAAppDelegate.m; sourceTree = "<group>"; };
+		2B30C19F17FFAA8500498EC7 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2B30C1A117FFAA8500498EC7 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2B30C1A317FFAA8500498EC7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2B30C1A617FFAA8500498EC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		2B30C1A817FFAA8500498EC7 /* IAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IAViewController.h; sourceTree = "<group>"; };
+		2B30C1A917FFAA8500498EC7 /* IAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IAViewController.m; sourceTree = "<group>"; };
+		2B30C1B017FFAA9100498EC7 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2B71B19F17FFD058004B85BD /* IARecipeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IARecipeCell.h; sourceTree = "<group>"; };
+		2B71B1A017FFD058004B85BD /* IARecipeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IARecipeCell.m; sourceTree = "<group>"; };
+		2B71B1A517FFD0E7004B85BD /* IARecipeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IARecipeTableViewController.h; sourceTree = "<group>"; };
+		2B71B1A617FFD0E7004B85BD /* IARecipeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IARecipeTableViewController.m; sourceTree = "<group>"; };
+		2B71B1A917FFD561004B85BD /* RecipeModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = RecipeModel.xcdatamodel; sourceTree = "<group>"; };
+		2B71B1AC17FFD645004B85BD /* IAAddRecipeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IAAddRecipeViewController.h; sourceTree = "<group>"; };
+		2B71B1AD17FFD645004B85BD /* IAAddRecipeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAAddRecipeViewController.m; sourceTree = "<group>"; };
+		2B9FB22417FFDC0200D3CF75 /* IATestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IATestViewController.h; sourceTree = "<group>"; };
+		2B9FB22517FFDC0200D3CF75 /* IATestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IATestViewController.m; sourceTree = "<group>"; };
+		2BEA681117FFAF9200A8124C /* IARecipeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IARecipeModel.h; path = RecipeExample/DataModel/IARecipeModel.h; sourceTree = SOURCE_ROOT; };
+		2BEA681217FFAF9200A8124C /* IARecipeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IARecipeModel.m; path = RecipeExample/DataModel/IARecipeModel.m; sourceTree = SOURCE_ROOT; };
+		2BEA681717FFAFB800A8124C /* _Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = _Ingredient.h; path = RecipeExample/DataModel/_Ingredient.h; sourceTree = SOURCE_ROOT; };
+		2BEA681817FFAFB800A8124C /* _Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = _Ingredient.m; path = RecipeExample/DataModel/_Ingredient.m; sourceTree = SOURCE_ROOT; };
+		2BEA681917FFAFB800A8124C /* _Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = _Recipe.h; path = RecipeExample/DataModel/_Recipe.h; sourceTree = SOURCE_ROOT; };
+		2BEA681A17FFAFB800A8124C /* _Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = _Recipe.m; path = RecipeExample/DataModel/_Recipe.m; sourceTree = SOURCE_ROOT; };
+		2BEA681B17FFAFB800A8124C /* Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ingredient.h; path = RecipeExample/DataModel/Ingredient.h; sourceTree = SOURCE_ROOT; };
+		2BEA681C17FFAFB800A8124C /* Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Ingredient.m; path = RecipeExample/DataModel/Ingredient.m; sourceTree = SOURCE_ROOT; };
+		2BEA681D17FFAFB800A8124C /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Recipe.h; path = RecipeExample/DataModel/Recipe.h; sourceTree = SOURCE_ROOT; };
+		2BEA681E17FFAFB800A8124C /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Recipe.m; path = RecipeExample/DataModel/Recipe.m; sourceTree = SOURCE_ROOT; };
+		8AC37C914C9A4D29B2950100 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F48F59F79E7464EB1A00C00 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B30C18717FFAA8500498EC7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B30C1B117FFAA9100498EC7 /* CoreData.framework in Frameworks */,
+				2B30C18E17FFAA8500498EC7 /* UIKit.framework in Frameworks */,
+				2B30C19017FFAA8500498EC7 /* Foundation.framework in Frameworks */,
+				2B30C19217FFAA8500498EC7 /* CoreGraphics.framework in Frameworks */,
+				A874A1FE3AC843B490381259 /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B30C18117FFAA8500498EC7 = {
+			isa = PBXGroup;
+			children = (
+				2B30C19317FFAA8500498EC7 /* RecipeExample */,
+				2B30C18C17FFAA8500498EC7 /* Frameworks */,
+				2B30C18B17FFAA8500498EC7 /* Products */,
+				8F48F59F79E7464EB1A00C00 /* Pods.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		2B30C18B17FFAA8500498EC7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B30C18A17FFAA8500498EC7 /* RecipeExample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2B30C18C17FFAA8500498EC7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2B30C1B017FFAA9100498EC7 /* CoreData.framework */,
+				2B30C18D17FFAA8500498EC7 /* UIKit.framework */,
+				2B30C18F17FFAA8500498EC7 /* Foundation.framework */,
+				2B30C19117FFAA8500498EC7 /* CoreGraphics.framework */,
+				8AC37C914C9A4D29B2950100 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2B30C19317FFAA8500498EC7 /* RecipeExample */ = {
+			isa = PBXGroup;
+			children = (
+				2B71B1AB17FFD628004B85BD /* Controllers */,
+				2B71B1A817FFD561004B85BD /* RecipeModel.xcdatamodeld */,
+				2B71B19E17FFD035004B85BD /* Tableview Cell */,
+				2B30C1B217FFAA9F00498EC7 /* DataModel */,
+				2B30C19C17FFAA8500498EC7 /* IAAppDelegate.h */,
+				2B30C19D17FFAA8500498EC7 /* IAAppDelegate.m */,
+				2B30C1A517FFAA8500498EC7 /* MainStoryboard.storyboard */,
+				2B30C1A817FFAA8500498EC7 /* IAViewController.h */,
+				2B30C1A917FFAA8500498EC7 /* IAViewController.m */,
+				2B30C19417FFAA8500498EC7 /* Supporting Files */,
+			);
+			path = RecipeExample;
+			sourceTree = "<group>";
+		};
+		2B30C19417FFAA8500498EC7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2B30C19517FFAA8500498EC7 /* RecipeExample-Info.plist */,
+				2B30C19617FFAA8500498EC7 /* InfoPlist.strings */,
+				2B30C19917FFAA8500498EC7 /* main.m */,
+				2B30C19B17FFAA8500498EC7 /* RecipeExample-Prefix.pch */,
+				2B30C19F17FFAA8500498EC7 /* Default.png */,
+				2B30C1A117FFAA8500498EC7 /* Default@2x.png */,
+				2B30C1A317FFAA8500498EC7 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2B30C1B217FFAA9F00498EC7 /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+				2BEA682317FFAFCF00A8124C /* mogenerator */,
+				2BEA682417FFAFD900A8124C /* coredata */,
+				2BEA681117FFAF9200A8124C /* IARecipeModel.h */,
+				2BEA681217FFAF9200A8124C /* IARecipeModel.m */,
+			);
+			name = DataModel;
+			path = "Data Model";
+			sourceTree = "<group>";
+		};
+		2B71B19E17FFD035004B85BD /* Tableview Cell */ = {
+			isa = PBXGroup;
+			children = (
+				2B71B19F17FFD058004B85BD /* IARecipeCell.h */,
+				2B71B1A017FFD058004B85BD /* IARecipeCell.m */,
+			);
+			name = "Tableview Cell";
+			sourceTree = "<group>";
+		};
+		2B71B1AB17FFD628004B85BD /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2B71B1A517FFD0E7004B85BD /* IARecipeTableViewController.h */,
+				2B71B1A617FFD0E7004B85BD /* IARecipeTableViewController.m */,
+				2B71B1AC17FFD645004B85BD /* IAAddRecipeViewController.h */,
+				2B71B1AD17FFD645004B85BD /* IAAddRecipeViewController.m */,
+				2B9FB22417FFDC0200D3CF75 /* IATestViewController.h */,
+				2B9FB22517FFDC0200D3CF75 /* IATestViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		2BEA682317FFAFCF00A8124C /* mogenerator */ = {
+			isa = PBXGroup;
+			children = (
+				2BEA681717FFAFB800A8124C /* _Ingredient.h */,
+				2BEA681817FFAFB800A8124C /* _Ingredient.m */,
+				2BEA681917FFAFB800A8124C /* _Recipe.h */,
+				2BEA681A17FFAFB800A8124C /* _Recipe.m */,
+			);
+			name = mogenerator;
+			sourceTree = "<group>";
+		};
+		2BEA682417FFAFD900A8124C /* coredata */ = {
+			isa = PBXGroup;
+			children = (
+				2BEA681B17FFAFB800A8124C /* Ingredient.h */,
+				2BEA681C17FFAFB800A8124C /* Ingredient.m */,
+				2BEA681D17FFAFB800A8124C /* Recipe.h */,
+				2BEA681E17FFAFB800A8124C /* Recipe.m */,
+			);
+			name = coredata;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B30C18917FFAA8500498EC7 /* RecipeExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B30C1AD17FFAA8500498EC7 /* Build configuration list for PBXNativeTarget "RecipeExample" */;
+			buildPhases = (
+				8FF65968E7294D539E6BD2CB /* Check Pods Manifest.lock */,
+				2B30C18617FFAA8500498EC7 /* Sources */,
+				2B30C18717FFAA8500498EC7 /* Frameworks */,
+				2B30C18817FFAA8500498EC7 /* Resources */,
+				52C06646A1FB457187729F37 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RecipeExample;
+			productName = RecipeExample;
+			productReference = 2B30C18A17FFAA8500498EC7 /* RecipeExample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2B30C18217FFAA8500498EC7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = IA;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = iOSAcademy;
+			};
+			buildConfigurationList = 2B30C18517FFAA8500498EC7 /* Build configuration list for PBXProject "RecipeExample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2B30C18117FFAA8500498EC7;
+			productRefGroup = 2B30C18B17FFAA8500498EC7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B30C18917FFAA8500498EC7 /* RecipeExample */,
+				2B30C1B917FFADBB00498EC7 /* Mogenerator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2B30C18817FFAA8500498EC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B30C19817FFAA8500498EC7 /* InfoPlist.strings in Resources */,
+				2B30C1A017FFAA8500498EC7 /* Default.png in Resources */,
+				2B30C1A217FFAA8500498EC7 /* Default@2x.png in Resources */,
+				2B30C1A417FFAA8500498EC7 /* Default-568h@2x.png in Resources */,
+				2B30C1A717FFAA8500498EC7 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2B30C1BD17FFADC900498EC7 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cd ../RecipeExample/RecipeExample/DataModel/\nmogenerator --template-var arc=true -m RecipeModel.xcdatamodeld/RecipeModel.xcdatamodel/";
+		};
+		52C06646A1FB457187729F37 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+		};
+		8FF65968E7294D539E6BD2CB /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sanbox is not in sync with the Podfile.lock. Run 'pod install'.\nEOM\n    exit 1\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B30C18617FFAA8500498EC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B30C19A17FFAA8500498EC7 /* main.m in Sources */,
+				2B30C19E17FFAA8500498EC7 /* IAAppDelegate.m in Sources */,
+				2B30C1AA17FFAA8500498EC7 /* IAViewController.m in Sources */,
+				2BEA681517FFAF9200A8124C /* IARecipeModel.m in Sources */,
+				2BEA681F17FFAFB800A8124C /* _Ingredient.m in Sources */,
+				2BEA682017FFAFB800A8124C /* _Recipe.m in Sources */,
+				2BEA682117FFAFB800A8124C /* Ingredient.m in Sources */,
+				2BEA682217FFAFB800A8124C /* Recipe.m in Sources */,
+				2B71B1A117FFD058004B85BD /* IARecipeCell.m in Sources */,
+				2B71B1A717FFD0E7004B85BD /* IARecipeTableViewController.m in Sources */,
+				2B71B1AA17FFD561004B85BD /* RecipeModel.xcdatamodeld in Sources */,
+				2B71B1AE17FFD645004B85BD /* IAAddRecipeViewController.m in Sources */,
+				2B9FB22617FFDC0200D3CF75 /* IATestViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2B30C19617FFAA8500498EC7 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2B30C19717FFAA8500498EC7 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2B30C1A517FFAA8500498EC7 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2B30C1A617FFAA8500498EC7 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2B30C1AB17FFAA8500498EC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2B30C1AC17FFAA8500498EC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2B30C1AE17FFAA8500498EC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F48F59F79E7464EB1A00C00 /* Pods.xcconfig */;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RecipeExample/RecipeExample-Prefix.pch";
+				INFOPLIST_FILE = "RecipeExample/RecipeExample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2B30C1AF17FFAA8500498EC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F48F59F79E7464EB1A00C00 /* Pods.xcconfig */;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RecipeExample/RecipeExample-Prefix.pch";
+				INFOPLIST_FILE = "RecipeExample/RecipeExample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		2B30C1BA17FFADBB00498EC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B30C1BB17FFADBB00498EC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B30C18517FFAA8500498EC7 /* Build configuration list for PBXProject "RecipeExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B30C1AB17FFAA8500498EC7 /* Debug */,
+				2B30C1AC17FFAA8500498EC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B30C1AD17FFAA8500498EC7 /* Build configuration list for PBXNativeTarget "RecipeExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B30C1AE17FFAA8500498EC7 /* Debug */,
+				2B30C1AF17FFAA8500498EC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B30C1BC17FFADBB00498EC7 /* Build configuration list for PBXAggregateTarget "Mogenerator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B30C1BA17FFADBB00498EC7 /* Debug */,
+				2B30C1BB17FFADBB00498EC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2B71B1A817FFD561004B85BD /* RecipeModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				2B71B1A917FFD561004B85BD /* RecipeModel.xcdatamodel */,
+			);
+			currentVersion = 2B71B1A917FFD561004B85BD /* RecipeModel.xcdatamodel */;
+			path = RecipeModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 2B30C18217FFAA8500498EC7 /* Project object */;
+}
