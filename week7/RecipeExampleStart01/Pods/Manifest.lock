@@ -1,0 +1,10 @@
+PODS:
+  - SIAlertView (1.2)
+
+DEPENDENCIES:
+  - SIAlertView (~> 1.2)
+
+SPEC CHECKSUMS:
+  SIAlertView: fd188f66278761f4ff069f517c3deb2be16ecdcc
+
+COCOAPODS: 0.18.1
