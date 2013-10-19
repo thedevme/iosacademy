@@ -1,0 +1,33 @@
+//
+// Prefix header for all source files of the 'App' target in the 'App' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+    #import "IAApplicationConstants.h"
+    #import "DDLog.h"
+    #import "DDASLLogger.h"
+    #import "DDTTYLogger.h"
+    #import "DDFileLogger.h"
+    #import "DMLogFormatter.h"
+    #import "EDColor.h"
+    #import "IAMovieDataModel.h"
+#endif
+
+/*!
+ * @Singleton GCD Macro
+ */
+#define DEFINE_SHARED_INSTANCE_USING_BLOCK(block) \
+static dispatch_once_t pred = 0; \
+__strong static id _sharedObject = nil; \
+dispatch_once(&pred, ^{ \
+_sharedObject = block(); \
+}); \
+return _sharedObject;
